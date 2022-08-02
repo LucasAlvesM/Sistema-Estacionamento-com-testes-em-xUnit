@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {}
+    "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {
+    "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
         "projectName": "Alura.Estacionamento.Testes",
-        "projectPath": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
+        "projectPath": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento.Testes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj"
+              "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento\\Alura.Estacionamento.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
+    "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
         "projectName": "Alura.Estacionamento",
-        "projectPath": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+        "projectPath": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Alura.Estacionamento\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Testes em net\\alura.estacionamento-aula01\\Sistema-Estacionamento-com-testes-em-xUnit\\Alura.Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
