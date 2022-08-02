@@ -1,6 +1,5 @@
-<p align="justify">
-Sistema Estacionamento com testes em xUnit
-</p>
+
+# Sistema Estacionamento com testes em xUnit
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=RED&style=for-the-badge"/>
 </p>
