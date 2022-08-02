@@ -6,12 +6,12 @@ using Xunit.Abstractions;
 
 namespace Alura.Estacionamento.Testes
 {
-    public class VeiculoTestes:IDisposable
+    public class VeiculoTeste:IDisposable
     {
         private Veiculo veiculo;
         public ITestOutputHelper saidaConsoleTeste;
 
-        public VeiculoTestes(ITestOutputHelper _saidaConsoleTeste)
+        public VeiculoTeste(ITestOutputHelper _saidaConsoleTeste)
         {
             saidaConsoleTeste = _saidaConsoleTeste;
            saidaConsoleTeste.WriteLine("Construtorr Invocado.");
