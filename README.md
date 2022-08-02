@@ -41,7 +41,17 @@ O sistema permitirá o controle de entradas e saidas de veículos em um estacion
 
 <div align="center">
 
-![Sistema](https:)
+![Sistema]
+## Tela Inicial
+(https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
+## Registrando entrada do Veículo
+(https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
+## Registrando saída do Veículo
+(https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
+## Exibindo Faturamento
+(https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
+## Mostrando Veículos estacionados
+(https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
 
   </div>
 
