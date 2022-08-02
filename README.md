@@ -43,15 +43,15 @@ O sistema permitirá o controle de entradas e saidas de veículos em um estacion
 
 ![Sistema]
 ## Tela Inicial
-**Tela Inicial:** ![Tela Inicial](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
+[Tela Inicial](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
 ## Registrando entrada do Veículo
-(https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
+[Tela Entrada](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaRegistro.png)
 ## Registrando saída do Veículo
-(https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
+[Tela Saida](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSaida.png)
 ## Exibindo Faturamento
-(https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
+[Tela Faturamento](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaFaturamento.png)
 ## Mostrando Veículos estacionados
-(https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
+[Tela Estacionados](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaEstacionados.png)
 
   </div>
 
